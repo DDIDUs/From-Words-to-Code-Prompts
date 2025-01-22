@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+First, Analyze the problem and write a Chain of Thought reasoning for solve the problem. Then, write a python code for the problem. DO NOT generate testcases or example. Package your code in ```python ... ```.

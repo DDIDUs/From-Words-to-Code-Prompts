@@ -1,0 +1,5 @@
+```python
+{{ og_code_1 }}
+```
+
+Revise the code. You should improve the code's syntax and maintain the original semantic. DO NOT generate any test cases or descriptions. Package your code in ```python ... ```.
